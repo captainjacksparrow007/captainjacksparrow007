@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @captainjacksparrow007
 - 👀 I’m interested in ...learning new skills
-- 💞️ I’m looking to collaborate on ...new projects that can give boost to my skill
-- 📫 How to reach me ...you have to just take a breath and message me🤞❤
+- 💞️ I’m looking to collaborate on ...new projects that can give boost to my skill.
 - 🌱 My Skills are:-
 -                 c
 -                 c++
@@ -13,7 +12,7 @@
 -                 Django
 -                 Spring Boot
 -                 Tailwind
--                 Note.js
+-                 Node.js
 -                 Mysql
 
 <!---
